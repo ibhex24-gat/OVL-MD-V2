@@ -3,13 +3,13 @@
   "description": "Bot WhatsApp Multi-Device basé sur Baileys",
   "keywords": ["IbSacko", "IB_HEX_BOT", "Whatsapp", "Baileys", "Muti-device"],
   "logo": "https://files.catbox.moe/lojrxz.jpg",
-  "repository": "https://github.com/Ainz-devs/OVL-MD-V2",
+  "repository": "https://github.com/ibhex24-gat/IB-HEX-BOT-",
   "success_url": "/",
   "stack": "container",
   "env": {
     "PREFIXE": {
       "description": "Préfixe utilisé pour les commandes du bot",
-      "value": ".",
+      "value": "Ib",
       "required": false
     },
     "NOM_OWNER": {
