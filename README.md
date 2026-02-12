@@ -1,4 +1,4 @@
-<h1 align="center">OVL-MD-V2</h1>
+<h1 align="center">IB-HEX-BOT</h1>
 
 <p align="center">
     <img alt="OVL" src="https://files.catbox.moe/gxcb9p.jpg">
