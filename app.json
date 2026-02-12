@@ -1,7 +1,7 @@
 {
-  "name": "OVL-MD-V2",
+  "name": "IB_HEX_BOT",
   "description": "Bot WhatsApp Multi-Device basé sur Baileys",
-  "keywords": ["Ainz", "OVL-MD-V2", "Whatsapp", "Baileys", "Muti-device"],
+  "keywords": ["IbSacko", "IB_HEX_BOT", "Whatsapp", "Baileys", "Muti-device"],
   "logo": "https://files.catbox.moe/lojrxz.jpg",
   "repository": "https://github.com/Ainz-devs/OVL-MD-V2",
   "success_url": "/",
@@ -14,12 +14,12 @@
     },
     "NOM_OWNER": {
       "description": "Nom de l'Owner du bot",
-      "value": "Ainz",
+      "value": "IB_HEX_BOT",
       "required": false
     },
     "NUMERO_OWNER": {
       "description": "Numéro WhatsApp de l'Owner (au format international)",
-      "value": "226xxxxxxxx",
+      "value": "224621963059",
       "required": true
     },
     "MODE": {
@@ -34,17 +34,17 @@
     },
     "NOM_BOT": {
       "description": "Nom du bot",
-      "value": "🤖 OVL-MD BOT V2",
+      "value": "🤖 IB_HEX_BOT",
       "required": false
     },
     "STICKER_PACK_NAME": {
       "description": "Nom du pack de stickers",
-      "value": "ᴏᴠʟ-ᴍᴅ-ᴠ𝟸",
+      "value": "IB_HEX_BOT",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Auteur du sticker",
-      "value": "ᴀɪɴᴢ🔅✨",
+      "value": "IbSacko🥷",
       "required": false
     }
   },
