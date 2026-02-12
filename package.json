@@ -1,5 +1,5 @@
 {
-  "name": "OVL-MD-V2",
+  "name": "IB_HEX_BOT",
   "version": "2.1.0",
   "description": "Bot Whatsapp multi-appareil developpé par Ainz",
   "main": "Ovl.js",
@@ -9,8 +9,8 @@
     "stop": "pm2 stop all",
     "Ovl": "pm2 start Ovl.js --attach --name ovl"
   },
-  "keywords": ["Ainz", "OVL-MD-V2", "Whatsapp", "Baileys", "Muti-device"],
-  "author": "Ainz-devs",
+  "keywords": ["IbSacko", "IB_HEX_BOT", "Whatsapp", "Baileys", "Muti-device"],
+  "author": "IbSacko-devs",
   "license": "MIT",
   "dependencies": {
     "@vitalets/google-translate-api": "^9.2.1",
